@@ -24,8 +24,8 @@ const char* ssid = "xxxx";
 const char* password = "xxxxxx";
 
 //Asksensors api-keyt
-const char* apiKeyIn = "X525tVMIoWpdEwzzOIWcnDAZpZJAv1sN";      
-const char* apiKeyIn2 = "8TBEnk3VO6xE0mxj2PJX8IOMfL9bKZnv"; 
+const char* apiKeyIn = "xxxxxxxxxxxxxxxxxxxxx";      
+const char* apiKeyIn2 = "xxxxxxxxxxxxxxxxxxxxx"; 
 
 //writeInterval määrittelee kuinka usein arvot lähetetään, 1h=3 600 000ms
 const unsigned int writeInterval = 3600000;
